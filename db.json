@@ -1,0 +1,16 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "title": "Linkdin"
+    },
+    {
+      "id": 2,
+      "title": "Masai School"
+    },
+    {
+      "id": 3,
+      "title": "Flipcart"
+    }
+  ]
+}
